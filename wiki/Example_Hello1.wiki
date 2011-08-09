@@ -1,0 +1,30 @@
+#labels Phase-Implementation
+# What you need to begin
+
+= Simple Prog - "Hello, World =
+
+char txt [5]={"Hello"};	
+
+void Main(void)
+
+{	int	i;
+
+	for	( i = 136; i > 8; --i )
+	{
+		//	X	 Y	 String
+	Print_String (	i,	150, "Hello, World!");
+	Print_String (	i,	170, txt);
+		
+	Delay	(20);		// Delay 20 mS
+		
+	}
+
+	Exit	();		// Exit to OS
+
+}
+
+= String runs =
+
+ Example shows two ways of String printing to LCD
+ This program size is 180 Bytes of BIN File.
+ There is 3rd way - Printf. But it uses C function vsprintf for formatted output. Use of this function will ADD about 10 kBytes to your Prog...
