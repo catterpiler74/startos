@@ -3,18 +3,18 @@
 
 = Simple Prog - "Hello, World =
 
-char txt 5 = {"Hello"};	
+char txt [5] = {"Hello"};	
 
 void Main(void)
-
+{{{
 { int i;
 
     for ( i = 136; i > 8; --i )
     {
-    //                X        Y    String
-        Print_String( i, 150, "Hello, World!");
+    //               X        Y      String
+        Print_String(i, 150, "Hello, World!");
 
-        Print_String( i, 170, txt);
+        Print_String(i, 170, txt);
 
         Delay(20);   // Delay 20 mS
     }
@@ -22,7 +22,7 @@ void Main(void)
     Exit();         // Exit to OS
 
 }
-
+}}}
 = String runs from left to right =
 
  Example shows two ways of String printing to LCD
