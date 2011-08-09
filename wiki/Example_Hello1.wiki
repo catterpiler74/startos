@@ -2,11 +2,11 @@
 #What you need to begin
 
 = Simple Prog - "Hello, World =
-
+{{{
 char txt [5] = {"Hello"};	
 
 void Main(void)
-{{{
+
 { int i;
 
     for ( i = 136; i > 8; --i )
