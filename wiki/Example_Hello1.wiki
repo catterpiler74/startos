@@ -3,7 +3,7 @@
 
 = Simple Prog - "Hello, World =
 
-char txt[5]={"Hello"};	
+char txt [ 5 ] = {"Hello"};	
 
 void Main(void)
 
