@@ -7,12 +7,12 @@ void Main(void)
 
     for( i = 136; i > 8; --i )
 		{
-			        		//	X	 Y		 String
-			Print_String (	i,	150, "Hello, World!");
-			Print_String (	i,	170, txt);
+                 //	X	 Y		 String
+     Print_String( i,  150, "Hello, World!");
+     Print_String(  i, 170, txt);
  			
-			Delay  (20);		// Delay 20 mS
- 		}
+     Delay(20);	// Delay 20 mS
+    }
 
-		Exit	();				// Exit to OS
+    Exit();     // Exit to OS
 }
