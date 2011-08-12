@@ -4,3 +4,24 @@
 
 Please watch: 
 http://www.youtube.com/watch?v=kDQFkJJ4IL8
+
+Or read:
+     No need to perform formatting NAND Flash. 
+ In Archive STARTOS.rar there is DNW.exe utility for Windows (XP or 7).
+ 1. Turn off power.
+ 2. Connect USB cable and COM cable to Board simultaneously.
+ 3. Move switch S2 in NOR position.
+ 4. Run DNW.exe on Desktop or Notebook/Netbook.
+ 5. Turn on Power by S1.
+ 6. On DNW window in Congiguration Option Set: Com Number (1),
+    115200 kBod, and address 0x33d00000. (They must be already there)
+ 7. On DNW in Left Upper corner [Serial Port] Press Connect.
+    Now your Computer plays terminal role.
+ 8. Press [Enter] (for List of commands) or [d] (for SDRAM load&start)
+    on Desktop Computer Keyboard.
+ 9. On [USB Port] select Transmit/Restore.
+10. Find and point to StartOS.bin.
+11. Program must start immediately.
+12. NAND Flash stays unchanged.
+
+   Then if you wish you may perform [a] command, Switch S2 to NAND and       work with StartOS. 
