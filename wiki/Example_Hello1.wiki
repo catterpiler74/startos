@@ -1,7 +1,7 @@
 #labels Phase-Implementation
 What you need to begin
 
-= Simple Prog - "Hello, World =
+  == Simple Prog - "Hello, World" ==
 {{{
 char txt [5] = {"Hello"};	
 
@@ -9,9 +9,9 @@ void Main(void)
 
 { int i;
 
-    for ( i = 136; i > 8; --i )
+    for ( i = 140; i > 0; --i )
     {
-    //               X        Y      String
+    //               X   Y    String text
         Print_String(i, 150, "Hello, World!");
 
         Print_String(i, 170, txt);
@@ -23,7 +23,7 @@ void Main(void)
 
 }
 }}}
-= String runs from left to right =
+ === String runs from left to right ===
 
  Example shows two ways of String printing to LCD
  Size of this program is 180 Bytes (BIN File).
