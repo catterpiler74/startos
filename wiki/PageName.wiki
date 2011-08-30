@@ -1,5 +1,5 @@
-#summary Istallation under Windows
-#labels Phase-Deploy
+#summary Installation under Windows
+#labels Phase-Implementation,Featured,Phase-Deploy
 = StartOS Install =
 
 Please watch: 
