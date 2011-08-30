@@ -21,7 +21,7 @@ Or read:
 
  5. Turn on Power by S1.
 
- 6. On DNW window in Congiguration Option Set: Com Number (1),115200 kBod, and address 0x33d00000. (They must be already there)
+ 6. On DNW window in Configuration Option Check: Com Number (1),115200 kBod, and address 0x33d00000 (0x30000000 is suitable too).
 
  7. On DNW in Left Upper corner {Serial Port} Press Connect. Now your Computer plays terminal role.
 
