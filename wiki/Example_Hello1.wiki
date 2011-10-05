@@ -26,5 +26,5 @@ void Main(void)
  === String runs from left to right ===
 
  Example shows two ways of String printing to LCD
- Size of this program is 180 Bytes (BIN File).
- There is 3rd way - Printf. But it uses C function vsprintf for formatted output. Using it will ADD more than 10 kBytes to your Prog...
+ Size of this program ~180 Bytes (BIN File).
+ There is also Printf in the system. 
