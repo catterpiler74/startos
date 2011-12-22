@@ -1,0 +1,14 @@
+#labels Featured,Phase-Deploy,Phase-Support
+# If the system don't work for the very first time
+
+== EEPROM specific ==
+
+ Some users report when they first time try to load StartOS it's cycling and rebooting.
+ In this case please run once test2440 in EEPROM part.
+ Then StartOS must work.
+
+ It's because the differences in hardware made in various years.
+ Also StartOS writes the Touch Screen calibration data in EEPROM with another methods then test2440 (uses the fast way).
+
+
+=== In case of doubt please contact author ===
