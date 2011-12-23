@@ -1,5 +1,5 @@
+#summary The very beginning
 #labels Phase-Implementation
-What you need to begin
 
   == Simple Prog - "Hello, World" ==
 {{{
