@@ -1,5 +1,5 @@
+#summary If the system don't work for the very first time
 #labels Featured,Phase-Deploy,Phase-Support
-===If the system don't work for the very first time===
 
 === EEPROM specific ===
 
