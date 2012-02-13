@@ -1,10 +1,8 @@
-#What's new Today
-
-= NEWS =
+                 = NEWS =
 
   The work is continuing so there're some news.
 
-  System works faster. It starts (and your program too) in 1 second.
+  System works faster. It starts (and your program too) in *1 second.*
 
  To launch the screen calibration procedure:
  - tap the screen and hold pen pressed at least 5 seconds
@@ -27,8 +25,11 @@
 
 
 int	pen_down;	// You'll get pen status as funct() return
+
 int	x;		// pen x will be placed here
+
 int	y;		// pen y will be placed here
+
 ....	...	...	...	...
 
 	pen_down=Read_TS(&(x),&(y));	// Put X,Y addresses and Read_TS will fill them with X,Y
@@ -37,6 +38,7 @@ int	y;		// pen y will be placed here
 	{
 
 ...  ...  use x and y here
+
 ...  ...	...	...
 
 	}
