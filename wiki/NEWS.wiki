@@ -2,9 +2,9 @@
 
   The work is continuing so there're some news.
 
-  System works faster. It starts (and your program too) in *1 second.*
+  System works fast. Cold start (and your program too) *<1 second.*
 
- To launch the screen calibration procedure:
+ To launch the *screen calibration procedure:*
  - tap the screen and hold pen pressed at least 5 seconds
 
  No more counter of launches.
