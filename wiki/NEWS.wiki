@@ -2,10 +2,9 @@
 
 
 Feb, 16
-System now supports FAT32 SD cards only. If you got problems when reading SD cards, you can try 1 bit wide SD interface versions.
+System now supports FAT32 SD cards only. There're some problems reading SD cards. Maybe contacts. Try some times. I work for stable reading.
 _____________________________________________________________
-  The work is continuing so there're some news.
-
+  
   System works fast. Cold start (and your program too) *<1 second.*
 
  To launch the *screen calibration procedure:*
