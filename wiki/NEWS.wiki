@@ -1,14 +1,26 @@
                  = NEWS =
 
 
-March 2
+
+*March 15*
+
+Access for LCD screen buffer is open now!
+Project Hello3 shows how to treat the buffer. Also how to make
+User's custom Fonts for any language.
+Having address of LCD buffer user can add his own Graphic/text functions.
+
+
+
+*March 2*
+
 Author may return FAT16 support - just let him know.
 Users can work with Timer's Interrupts freely.
 Please help by leaving feedback.
 
 
 
-Feb 16
+*Feb 16*
+
 System now supports FAT32 SD cards only. If some problems reading SD cards will arise, please report.
  Get_mSeconds() was added.
 ___________________________________________________________
