@@ -1,4 +1,8 @@
-                 = NEWS =
+                 = What's new =
+
+* May 19*
+
+SD card functions were improved. And no more need to format SD card. Never!
 
 
 *April 9*
