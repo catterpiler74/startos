@@ -1,5 +1,9 @@
                 = What's new =
 
+* July 12*
+The Web Server/Client Projects posted
+
+
 *June 20*
 
 Connected to the Internet
