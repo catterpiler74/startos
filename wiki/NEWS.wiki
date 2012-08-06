@@ -1,5 +1,10 @@
                 = What's new =
 
+* August, 5 *
+Added Sound to your projects
+Look at: http://youtu.be/Qdtj17tCpfM
+
+
 * July 12*
 The Web Server/Client Projects posted
 
