@@ -8,6 +8,7 @@ If the program complexity is measured in lines of code quantity,
 then the Programmers'Brain must be weighted in pounds?
 
 ---
+
 CS professor at students' auditory:
 
 - John Smith, what are you doing right now?
