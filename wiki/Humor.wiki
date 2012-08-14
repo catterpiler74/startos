@@ -3,7 +3,7 @@
 
 ---
 
-If the program complexity is measured in lines of code quantity,
+If the program complexity is measured in lines of code,
 
 then the Programmers'Brain must be weighted in pounds?
 
