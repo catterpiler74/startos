@@ -1,11 +1,20 @@
                 = What's new =
 
+* November 6 *
+
+Just added PWM_out functions
+
+Please watch the SCADA Video at:
+http://www.youtube.com/watch?v=Q2mjBy_Yor4
+
 * August, 5 *
+
 Added Sound to your projects
 Look at: http://youtu.be/Qdtj17tCpfM
 
 
 * July 12*
+
 The Web Server/Client Projects posted
 
 
