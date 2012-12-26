@@ -12,4 +12,4 @@
  The StartOS writes the Touch Screen calibration data in EEPROM using other methods then test2440.
 
 
-=== In case of any doubt please contact author ===
+=== Have a doubt? Please contact the author ===
