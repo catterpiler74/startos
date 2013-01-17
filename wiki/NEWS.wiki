@@ -1,5 +1,14 @@
                 = What's new =
 
+* January 16 *
+
+Added functions for SD card files read/write
+and SD card areas (blocks) read/write
+
+
+
+* 2013 *
+
 * November 6 *
 
 Just added PWM_out functions
