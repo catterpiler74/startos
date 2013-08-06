@@ -1,9 +1,14 @@
                 = What's new =
 
+* August 5 *
+
+Added I2C support. Now you can connect Port expanders, multichannel ADCs, Compasses, MCUs and so on.
+
+
 * January 16 *
 
-Added functions for SD card files read/write
-and SD card areas (blocks) read/write
+Added functions for SD card files reading/writing
+And the SD card areas (blocks) reading/writing
 
 
 
@@ -36,7 +41,7 @@ Web Server is ready
 
 *May 19*
 
-SD card functions were improved. And no more need to format SD card. Never!
+SD card functions were improved. And no more need to format the SD card. Never!
 
 
 *April 9*
@@ -47,10 +52,10 @@ Added Ethernet packets sending/receiving
 
 *March 15*
 
-Access for LCD screen buffer is open now!
+Access to LCD screen buffer is open now!
 Project Hello3 shows how to treat the buffer. Also how to make
 User's custom Fonts for any language.
-Having address of LCD buffer user can add his own Graphic/text functions.
+Having the address of the LCD buffer user can add his own Graphic/text functions.
 
 
 
@@ -64,18 +69,18 @@ Please help by leaving feedback.
 
 *Feb 16*
 
-System now supports FAT32 SD cards only. If some problems reading SD cards will arise, please report.
+The system now supports FAT32 SD cards only. If some problems reading SD cards will arise, please report.
  Get_mSeconds() was added.
 ___________________________________________________________
   
   System works fast. Cold start (and your program too) *<1 second.*
 
  To launch the *screen calibration procedure:*
- - tap the screen and hold pen pressed at least 5 seconds
+ - Tap the screen and hold the pen pressed at least 5 seconds
 
  No more counter of launches.
 
- With proper SD card you can see up to 15 files on menu screen.
+ With the proper SD card you can see up to 15 files on the menu screen.
 
  Some functions are in progress.
 
