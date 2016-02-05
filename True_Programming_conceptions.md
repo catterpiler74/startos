@@ -1,0 +1,6 @@
+# About true programming #
+
+http://www.joelonsoftware.com/articles/ThePerilsofJavaSchools.html
+
+
+# I totally agree with Joel Spolsky #

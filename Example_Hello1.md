@@ -1,0 +1,27 @@
+> ## Simple Prog - "Hello, World" ##
+```
+char txt [5] = {"Hello"};	
+
+void Main(void)
+
+{ int i;
+
+    for ( i = 140; i > 0; --i )
+    {
+    //               X   Y    String text
+        Print_String(i, 150, "Hello, World!");
+
+        Print_String(i, 170, txt);
+
+        Delay(20);   // Delay 20 mS
+    }
+
+    Exit();         // Exit to OS
+
+}
+```
+> ### String runs from left to right ###
+
+> Example shows two ways of String printing to LCD
+> Size of this program ~180 Bytes (BIN File).
+> There is also Printf in the system.

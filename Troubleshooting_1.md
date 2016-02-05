@@ -1,0 +1,12 @@
+### EEPROM specific ###
+
+> Some users report when they first time try to load StartOS it's cycling and rebooting. Also, when screen calibrating was not accurate, X or Y coordinates of the corners may get the same values.
+
+> In these cases please **run once test2440 in EEPROM part**.
+> Then StartOS must work.
+
+> It's because of the differences in hardware.
+> The StartOS writes the Touch Screen calibration data in EEPROM using other methods then test2440.
+
+
+### Have a doubt? Please contact the author ###
